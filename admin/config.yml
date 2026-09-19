@@ -1,6 +1,6 @@
 backend:
   name: github
-  repo: luckyyjdev/blog
+  repo: far-chen/my-blog-content-main-main
   branch: master
   base_url: https://sveltia.938272.xyz.workers.dev
 
