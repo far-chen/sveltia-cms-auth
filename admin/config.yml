@@ -2,7 +2,7 @@ backend:
   name: github
   repo: far-chen/my-blog-content-main-main
   branch: master
-  base_url: https://sveltia.938272.xyz.workers.dev
+  base_url: https://sveltia.938272.xyz
 
 media_folder: /static/images
 public_folder: /images
